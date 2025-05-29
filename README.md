@@ -91,5 +91,4 @@ The frontend is currently live on Vercel:
 To function properly, this frontend requires the SociaLink backend server to be running.
 
 👨‍💻 Author
-Built with ❤️ by [Your Name]
-GitHub: @yourusername
+Built with ❤️ by [Snehal Suman]
